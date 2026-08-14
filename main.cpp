@@ -13,6 +13,7 @@ class LoadJSON {
 };
 
 int main() {
-    LoadJSON theData("../data.json");
+
+
     return 0;
 }
