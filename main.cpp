@@ -7,7 +7,7 @@ using json = nlohmann::json;
 
 class LoadJSON {
     public:
-    LoadJSON(string json_file_path) {
+    LoadJSON(const string& json_file_path) {
     }
 };
 
