@@ -8,6 +8,7 @@ using json = nlohmann::json;
 class LoadJSON {
     public:
     LoadJSON(const string& json_file_path) {
+        // see video for advice on loading the JSON
     }
 };
 
